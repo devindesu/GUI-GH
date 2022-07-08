@@ -13,7 +13,6 @@
 		86CE43E02877B0B800A2CE09 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86CE43DE2877B0B800A2CE09 /* Main.storyboard */; };
 		86CE43E22877B0B900A2CE09 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86CE43E12877B0B900A2CE09 /* Assets.xcassets */; };
 		86CE43E52877B0B900A2CE09 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86CE43E32877B0B900A2CE09 /* LaunchScreen.storyboard */; };
-		86CE43ED2877B39900A2CE09 /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86CE43EC2877B39900A2CE09 /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +24,6 @@
 		86CE43E12877B0B900A2CE09 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86CE43E42877B0B900A2CE09 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86CE43E62877B0B900A2CE09 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		86CE43EC2877B39900A2CE09 /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +60,6 @@
 				86CE43DA2877B0B800A2CE09 /* SceneDelegate.swift */,
 				86CE43DC2877B0B800A2CE09 /* ViewController.swift */,
 				86CE43DE2877B0B800A2CE09 /* Main.storyboard */,
-				86CE43EC2877B39900A2CE09 /* Model.swift */,
 				86CE43E12877B0B900A2CE09 /* Assets.xcassets */,
 				86CE43E32877B0B900A2CE09 /* LaunchScreen.storyboard */,
 				86CE43E62877B0B900A2CE09 /* Info.plist */,
@@ -144,7 +141,6 @@
 				86CE43DD2877B0B800A2CE09 /* ViewController.swift in Sources */,
 				86CE43D92877B0B800A2CE09 /* AppDelegate.swift in Sources */,
 				86CE43DB2877B0B800A2CE09 /* SceneDelegate.swift in Sources */,
-				86CE43ED2877B39900A2CE09 /* Model.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
